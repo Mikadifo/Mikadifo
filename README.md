@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[🔭 I’m currently working on GACU](https://github.com/Mikadifo/GACU)
+🔭 I’m currently working on[GACU](https://github.com/Mikadifo/GACU).
+🌱 I’m currently learning HTML, CSS, JPA and JAVA FX.
+👯 I’m looking to collaborate on Java projects.
 
 <!--
 **Mikadifo/Mikadifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
