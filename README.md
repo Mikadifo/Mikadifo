@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on[GACU](https://github.com/Mikadifo/GACU).
+🔭 I’m currently working on[Advent of Code](https://github.com/Mikadifo/Advent-of-Code-2020-Solutions).
 
 🌱 I’m currently learning HTML, CSS, JPA and JAVA FX.
 
