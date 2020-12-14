@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on[Advent of Code](https://github.com/Mikadifo/Advent-of-Code-2020-Solutions).
+🔭 I’m currently working on [Advent of Code](https://github.com/Mikadifo/Advent-of-Code-2020-Solutions).
 
-🌱 I’m currently learning HTML, CSS, JPA and JAVA FX.
+🌱 I’m currently learning HTML, CSS, JPA and JAVA FX, JS, FUNCTIONAL PROGRAMMING
 
-👯 I’m looking to collaborate on Java projects.
+👯 I’m looking to collaborate on Java or JS projects.
 
 <!--
 **Mikadifo/Mikadifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
