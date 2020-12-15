@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Advent of Code](https://github.com/Mikadifo/Advent-of-Code-2020-Solutions).
+🔭 I’m currently working on [SUDOKU APP](https://github.com/Mikadifo/Sudoku).
 
 🌱 I’m currently learning HTML, CSS, JPA and JAVA FX, JS, FUNCTIONAL PROGRAMMING
 
