@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [SUDOKU APP](https://github.com/Mikadifo/Sudoku).
 
-🌱 I’m currently learning HTML, CSS, JPA and JAVA FX, JS, FUNCTIONAL PROGRAMMING
+🌱 I’m currently learning HTML, CSS, JS, FUNCTIONAL PROGRAMMING
 
 👯 I’m looking to collaborate on Java or JS projects.
 
