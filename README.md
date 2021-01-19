@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 🔭 I’m currently working on [SUDOKU APP](https://github.com/Mikadifo/Sudoku).
+-->
 
 🌱 I’m currently learning HTML, CSS, JS, FUNCTIONAL PROGRAMMING
 
