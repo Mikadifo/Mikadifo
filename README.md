@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<!--
-🔭 I’m currently working on [SUDOKU APP](https://github.com/Mikadifo/Sudoku).
--->
+🔭 I’m currently working on [ZENPLET APP](https://github.com/Mikadifo/ZenPlet)
 
 🌱 I’m currently learning Angular, TS, FUNCTIONAL PROGRAMMING, SPRING BOOT
 
-👯 I’m looking to collaborate on Java or JS projects.
+👯 I’m looking to collaborate on Java or JS/TS projects.
 
 <!--
 **Mikadifo/Mikadifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
