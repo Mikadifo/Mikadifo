@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [ZENPLET APP](https://github.com/Mikadifo/ZenPlet)
+<!-- 🔭 I’m currently working on [ZENPLET APP](https://github.com/Mikadifo/ZenPlet) -->
 
-🌱 I’m currently learning Angular, TS, FUNCTIONAL PROGRAMMING, SPRING BOOT
+🌱 I’m currently learning React, TS, FUNCTIONAL PROGRAMMING, SPRING BOOT, Redux
 
 👯 I’m looking to collaborate on Java or JS/TS projects.
 
