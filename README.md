@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate software developer interested in mobile and web applications.</h3>
 
-- 🔭 I’m currently working on [Don't Forget Me](https://github.com/Mikadifo/DontForgetMeAPI)
+- 🔭 I’m currently working on [Don't Forget Me](https://github.com/Mikadifo/DontForgetMeAPI) and my own [portfolio website](https://github.com/Mikadifo/MikadifoPortfolio)
 
 - 🌱 I’m currently learning **Design Patterns and testing**
 
