@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Don't Forget Me](https://github.com/Mikadifo/DontForgetMeAPI) and my own [portfolio website](https://github.com/Mikadifo/MikadifoPortfolio)
 
+- My website [here](https://www.mikadifo.com)
+
 - 🌱 I’m currently learning **Design Patterns and testing**
 
 - 👯 I’m looking to collaborate on **open source projects**
