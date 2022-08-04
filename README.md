@@ -5,7 +5,7 @@
 
 - 💻 My website [here](https://www.mikadifo.com)
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **Testing** and **Web Design**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
