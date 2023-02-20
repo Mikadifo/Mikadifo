@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate software developer interested in mobile and web applications.</h3>
 
-- 🔭 I’m currently working on my CS degree
+- 🔭 I’m currently working on my CS degre
 
 - 💻 My website [here](https://www.mikadifo.com)
 
-- 🌱 I’m currently learning **Testing** and **Web Design**
+- 🌱 I’m currently learning **Functional Programming** and **Cybersecurity**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
