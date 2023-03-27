@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/mikadifo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-padilla-aab717237" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:14306807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:14306807" height="30" width="40" /></a>
 <a href="https://instagram.com/mikadifo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikadifo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mikadifo_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikadifo_code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mikadifo_code1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikadifo_code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
