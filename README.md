@@ -31,4 +31,4 @@ I love exploring new ideas and learning new technologies.
 <p><a href="https://www.buymeacoffee.com/mikadifo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoff.ee/mikadifo" /></a></p><br><br><br><br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikadifo&show_icons=true&locale=en" alt="mikadifo" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikadifo&show_icons=true&theme=onedark&locale=en" alt="mikadifo" />
