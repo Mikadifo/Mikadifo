@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate front-end software developer, with more than 3 years of experience.
+I'm a passionate software developer, with more than 3 years of experience working on the web.
 
-I love exploring new ideas and learning new technologies.
+I love exploring new ideas and learning new technologies and many other things.
 
 ## 🛠 Skills
 
