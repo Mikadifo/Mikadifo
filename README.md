@@ -17,13 +17,13 @@ I love exploring new ideas and learning new technologies and many other things.
 
 ## Status
 
-👩‍💻 I'm currently working on my new website design.
+👩‍💻 I'm currently working on Promptify, a tool that will help people share, create and use prompts in their AI-chats.
 
-🧠 I'm currently learning ui/ux and cybersecurity.
+🧠 I'm currently learning ui/ux.
 
-👯‍♀️ I'm looking to collaborate on any project.
+👯‍♀️ I'm looking to collaborate on any project, especially those using React or JS in general.
 
-🤔 I'm looking for help with new technologies, especially JS.
+🤔 I'm looking for help with new technologies in the JS environment, since it's quickly changing.
 
 ## Support:
 
