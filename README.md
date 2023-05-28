@@ -19,7 +19,7 @@ I love exploring new ideas and learning new technologies and many other things.
 
 👩‍💻 I'm currently working on Promptify, a tool that will help people share, create and use prompts in their AI-chats.
 
-🧠 I'm currently learning ui/ux.
+🧠 I'm currently learning ui/ux and frontend.
 
 👯‍♀️ I'm looking to collaborate on any project, especially those using React or JS in general.
 
