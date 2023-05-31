@@ -17,7 +17,7 @@ I love exploring new ideas and learning new technologies and many other things.
 
 ## Status
 
-👩‍💻 I'm currently working on Promptify, a tool that will help people share, create and use prompts in their AI-chats.
+👩‍💻 I'm currently working on Promptify, a tool that will help people share, create and use prompts in their AI-chats. I'm also working on pman.
 
 🧠 I'm currently learning ui/ux and frontend.
 
