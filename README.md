@@ -18,7 +18,7 @@ I love exploring new ideas and learning new technologies and many other things.
 ## Status
 
 👩‍💻 I'm currently working on Promptify, a tool that will help people share, create and use prompts in their AI-chats.
-I'm also working on pman, a terminal client that allows you to open your projects from any terminal and any directory you are currently in.
+I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client that allows you to open your projects from any terminal and any directory you are currently in.
 
 🧠 I'm currently learning ui/ux and frontend.
 
