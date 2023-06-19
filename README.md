@@ -17,7 +17,7 @@ I love exploring new ideas and learning new technologies and many other things. 
 
 ## Status
 
-👩‍💻 I'm currently working on [Promchatter](https://github.com/Mikadifo/promchatter), a tool that will help people share, create and use prompts in AI-driven chats.
+👩‍💻 I'm currently working on [Promchatter](https://github.com/Mikadifo/promchatter), a tool that will help people all over the world share, create and use prompts in AI-driven chats.
 
 I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client that allows you to open your projects from any terminal and any directory you are currently in.
 
