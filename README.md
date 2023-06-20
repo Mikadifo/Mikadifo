@@ -21,7 +21,7 @@ I love exploring new ideas and learning new technologies and many other things. 
 
 I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client that allows you to open your projects from any terminal and any directory you are currently in.
 
-🧠 I'm currently learning ui/ux, frontend and AI.
+🧠 I'm currently learning UI/UX design, and AI.
 
 👯‍♀️ I'm looking to collaborate on any project, especially those using React or JS in general.
 
