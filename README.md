@@ -27,7 +27,7 @@ I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client 
 
 🤔 I'm looking for help with AI topics.
 
-## Support:
+## Support
 
 <p><a href="https://www.buymeacoffee.com/mikadifo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoff.ee/mikadifo" /></a></p><br><br><br><br>
 
