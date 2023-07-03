@@ -7,7 +7,7 @@
 
 I'm a passionate software developer, with over 3 years of experience working on web development.
 
-I love exploring new ideas and learning about new technologies and many other things. I'm also a neovim and haskell enthusiast.
+I love exploring new ideas and learning about new technologies and many other things. I'm also a neovim and haskell enthusiast. I also love to play videogames.
 
 ## 🛠 Skills
 
