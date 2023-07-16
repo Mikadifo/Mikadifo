@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate front-end software developer, with over 3 years of experience working on web development.
+I'm a passionate front-end software developer and a freelancer, with over 3 years of experience working on web development.
 
 I love to explore new ideas and learning about new technologies and many other things. I'm also a neovim and haskell enthusiast.
 
