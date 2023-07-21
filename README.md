@@ -25,7 +25,7 @@ I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client 
 
 👯‍♀️ I'm open to collaborate on any project, especially on those using React, Javascript or Java.
 
-🤔 I'm looking for help with AI topics and new web technologies.
+🤔 I'm looking for help on AI topics and new web technologies.
 
 ## Support
 
