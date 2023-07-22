@@ -5,9 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate front-end software developer and a freelancer, with over 3 years of experience working on web development.
-
-I love to explore new ideas and learning about new technologies and many other things. I'm also a neovim and haskell enthusiast.
+As an experienced front-end software developer and freelancer, my journey spans over 3 years in web development. Driven by curiosity, I thrive on exploring and mastering emerging technologies. I have embraced Neovim as my main development editor, captivated by its potential. My dedication to delivering innovative solutions fuels my passion for building extraordinary software. Always seeking new challenges and knowledge to stay ahead in this fast growing industry.
 
 ## 🛠 Skills
 
