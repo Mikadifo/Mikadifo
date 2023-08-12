@@ -55,5 +55,4 @@ I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoff.ee/mikadifo"/>
 </a>
 <br><br><br><br>
-
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikadifo&show_icons=true&theme=gruvbox&locale=en" alt="mikadifo" />
