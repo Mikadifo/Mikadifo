@@ -57,4 +57,4 @@ I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client 
 
 <br> <br> <br>
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikadifo&show_icons=true&theme=gruvbox&locale=en" alt="mikadifo" />
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikadifo&show_icons=true&theme=gruvbox&locale=en" alt="mikadifo stats" />
