@@ -45,7 +45,7 @@ I'm also working on [pman](https://github.com/Mikadifo/pman), a terminal client 
 
 🧠 I'm currently learning UI/UX design, AI, Cybersecurity and Lua for game scripting.
 
-👯‍♀️ I'm open to collaborate on any project, especially on those using React or Javascript.
+👯‍♀️ I'm open to collaborate on any project, especially on those using React or JS.
 
 🤔 I'm looking for help on AI topics and new web technologies.
 
