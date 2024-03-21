@@ -39,7 +39,7 @@ My dedication to delivering innovative solutions fuels my **passion for building
 
 ## Status
 
-👩‍💻 I'm currently working on [**Promchatter**](https://github.com/Mikadifo/promchatter), a tool that will help people all over the world share, create and use prompts on AI-driven chats.
+👩‍💻 I'm currently working on [**Money Moon**](https://github.com/Mikadifo/moneyMoon), a tool to keep financial track of your personal bank transactions, income, expenses, budget, debt and more.
 
 I'm also working on [**pman**](https://github.com/Mikadifo/pman), a terminal client that allows you to open your projects from any mac terminal and any directory you are currently in.
 
