@@ -39,9 +39,7 @@ My dedication to delivering innovative solutions fuels my **passion for building
 
 ## Status
 
-👩‍💻 I'm currently working on [**Money Moon**](https://github.com/Mikadifo/moneyMoon), a tool to keep financial track of your personal bank transactions, income, expenses, budget, debt and more.
-
-I'm also working on [**pman**](https://github.com/Mikadifo/pman), a terminal client that allows you to open your projects from any mac terminal and any directory you are currently in.
+👩‍💻 I'm currently working on my own http server using golang.
 
 🧠 I'm currently learning **UI/UX design, AI, Cybersecurity and Lua** for game scripting.
 
