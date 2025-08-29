@@ -35,11 +35,11 @@ My dedication to delivering innovative solutions fuels my **passion for building
     </a>
 </p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mikadifo&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mikadifo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikadifo&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mikadifo" />
 
 ## Status
 
-👩‍💻 I'm currently working on my own http server using golang.
+👩‍💻 I'm currently working on my senior year college projects
 
 🧠 I'm currently learning **UI/UX design, AI, Cybersecurity and Lua** for game scripting.
 
@@ -55,4 +55,5 @@ My dedication to delivering innovative solutions fuels my **passion for building
 
 <br> <br> <br>
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikadifo&show_icons=true&theme=gruvbox&locale=en" alt="mikadifo stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikadifo&show_icons=true&theme=gruvbox&locale=en" alt="mikadifo stats" />
+
